@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <tab-menu></tab-menu>
+    ABCDE
     <router-view/>
   </div>
 </template>
