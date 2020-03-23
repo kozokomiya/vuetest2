@@ -1,4 +1,5 @@
 
 module.exports = {
- outputDir: 'docs',   // change output dir for github pages
+  publicPath: '/vuetest2/',
+  outputDir: 'docs',   // change output dir for github pages
 }
